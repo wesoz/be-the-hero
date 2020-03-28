@@ -1,0 +1,36 @@
+Backend:
+
+nodemon = service restarting when code is edited
+axios = api access
+cross-env = environment variable for testing
+jest = tests
+intl = locale
+celebrate = api call validation
+express = routing
+knex = database access
+sqlite3 = database engine
+supertest = api call
+
+mobile:
+
+axios = api access
+react-navigation/stack = navigation
+expo = expo
+expo-constants = util constants
+
+
+
+Recommendations for hosting:
+
+Heroku - free
+Digital Ocean - $5/Month
+
+Netlify(frontend) - free
+
+Study later:
+
+Code pattern: ESLint, Pretier
+Authentication JWT
+Styled components
+
+
